@@ -1,1 +1,1 @@
-wep: php bot.php
+web: php bot.php
